@@ -14,7 +14,7 @@ This milestone focuses on project setup, MySQL integration, Swagger documentatio
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/alx_travel_app.git
+git clone https://github.com/<seifeda>/alx_travel_app.git
 cd alx_travel_app
 pip install -r requirements.txt
 python manage.py migrate
